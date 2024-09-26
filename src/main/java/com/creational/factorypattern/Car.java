@@ -1,4 +1,4 @@
-package com.factorypattern;
+package com.creational.factorypattern;
 
 public class Car implements Vehicle{
     @Override
